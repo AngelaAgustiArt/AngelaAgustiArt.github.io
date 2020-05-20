@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Madre naturaleza"
+author: "Angela Agustí"
 categories: sample
-tags: [sample]
-image: arctic-1.jpg
+tags: [caracterizacion]
+image: madrenaturaleza.jpg
 ---
 
-# Markdown Support
+# Madre naturaleza
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+Hago cositas como esta
 
 ## Basic Formatting
 
