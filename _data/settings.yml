@@ -11,7 +11,7 @@ social:
 - {icon: 'envelope', link: 'mailto:angelaagusti97@gmail.com'}
 
 # Customize site text
-# pagination:
+pagination:
    next_page: '->'
    previous_page: '<-'
 
