@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Contacto', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -16,9 +16,9 @@ social:
 - {icon: 'envelope', link: 'mailto:angelaagusti97@gmail.com'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+# pagination:
+#   next_page: 'Newer'
+#   previous_page: 'Older'
 
 sharing_button_prompt: 'Feel free to share!'
 
