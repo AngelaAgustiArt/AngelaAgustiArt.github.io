@@ -3,7 +3,7 @@ layout: post
 title: "Maquillaje social"
 author: "Angela Agustí"
 categories: servicios
-tags: [documentation,sample]
+tags: [maquillaje,social]
 image: maquillaje.jpg
 ---
 
